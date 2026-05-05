@@ -45,7 +45,7 @@ export default function HomeClient() {
         <div className="mx-auto flex max-w-7xl items-center justify-between px-6 py-4 lg:px-8">
           <div>
             <div className="text-2xl font-bold tracking-tight">Your Brand</div>
-            <div className="text-xs text-slate-500">Wholesale Supplier Portal</div>
+            <div className="text-xs text-slate-500">Wholesale Supplier Portal testing</div>
           </div>
           <nav className="hidden gap-8 md:flex text-sm font-medium">
             <a href="#home" className="hover:text-slate-600">Home</a>
